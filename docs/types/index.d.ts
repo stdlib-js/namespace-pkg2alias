@@ -25,7 +25,7 @@
 * @returns alias
 *
 * @example
-* var v = pkg2alias( '@stdlib/math/base/special/sin' );
+* var v = pkg2alias( '@stdlib/math-base-special-sin' );
 * // returns 'base.sin'
 */
 declare function pkg2alias( pkg: string ): string | null;

@@ -145,7 +145,7 @@ tape( 'the command-line interface prints an alias', opts, function test( t ) {
 	var cmd = [
 		EXEC_PATH,
 		fpath,
-		'@stdlib/math/base/special/sin'
+		'@stdlib/math-base-special-sin'
 	];
 
 	exec( cmd.join( ' ' ), done );

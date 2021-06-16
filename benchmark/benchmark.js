@@ -34,9 +34,9 @@ bench( pkg, function benchmark( b ) {
 	var i;
 
 	values = [
-		'@stdlib/math/base/special/sin',
-		'@stdlib/math/base/special/abs',
-		'@stdlib/math/base/special/cos'
+		'@stdlib/math-base-special-sin',
+		'@stdlib/math-base-special-abs',
+		'@stdlib/math-base-special-cos'
 	];
 
 	b.tic();

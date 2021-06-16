@@ -23,7 +23,7 @@ import pkg2alias = require( './index' );
 
 // The function returns a string or null...
 {
-	pkg2alias( '@stdlib/math/base/special/sin' ); // $ExpectType string | null
+	pkg2alias( '@stdlib/math-base-special-sin' ); // $ExpectType string | null
 }
 
 // The compiler throws an error if the function is not provided a string...
@@ -40,5 +40,5 @@ import pkg2alias = require( './index' );
 
 // The compiler throws an error if the function is provided an unsupported number of arguments...
 {
-	pkg2alias( '@stdlib/math/base/special/sin', 'beep' ); // $ExpectError
+	pkg2alias( '@stdlib/math-base-special-sin', 'beep' ); // $ExpectError
 }

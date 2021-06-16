@@ -57,7 +57,7 @@ var pkg2alias = require( '@stdlib/namespace-pkg2alias' );
 Returns the alias associated with a specified package name.
 
 ```javascript
-var v = pkg2alias( '@stdlib/math/base/special/sin' );
+var v = pkg2alias( '@stdlib/math-base-special-sin' );
 // returns 'base.sin'
 ```
 
@@ -172,7 +172,7 @@ Options:
 ### Examples
 
 ```bash
-$ stdlib-pkg2alias '@stdlib/math/base/special/sin'
+$ stdlib-pkg2alias '@stdlib/math-base-special-sin'
 base.sin
 ```
 

@@ -33,7 +33,7 @@
     "examples": "make examples",
     "benchmark": "make benchmark"
   },
-  "homepage": "https://github.com/stdlib-js/stdlib",
+  "homepage": "https://stdlib.io",
   "repository": {
     "type": "git",
     "url": "git://github.com/stdlib-js/namespace-pkg2alias.git"
@@ -45,7 +45,8 @@
     "@stdlib/assert-has-own-property": "^0.0.x",
     "@stdlib/assert-is-string": "^0.0.x",
     "@stdlib/cli": "^0.0.x",
-    "@stdlib/fs-read-file": "^0.0.x"
+    "@stdlib/fs-read-file": "^0.0.x",
+    "@stdlib/namespace-standalone2pkg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.0.x",
@@ -54,6 +55,7 @@
     "@stdlib/fs-write-file": "^0.0.x",
     "@stdlib/namespace": "^0.0.x",
     "@stdlib/namespace-alias2pkg": "^0.0.x",
+    "@stdlib/namespace-alias2standalone": "^0.0.x",
     "@stdlib/namespace-aliases": "^0.0.x",
     "@stdlib/process-exec-path": "^0.0.x",
     "@stdlib/random-base-discrete-uniform": "^0.0.x",

@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pkg2alias from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-pkg2alias@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/namespace-pkg2alias/tags). For example,
+
+```javascript
 import pkg2alias from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-pkg2alias@v0.1.0-esm/index.mjs';
 ```
 
@@ -111,7 +116,7 @@ var v = pkg2alias( 'unrecognized_pkg_beep_boop_bop_bip' );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import aliases from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-aliases@esm/index.mjs';
 import alias2pkg from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-alias2pkg@esm/index.mjs';
-import pkg2alias from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-pkg2alias@v0.1.0-esm/index.mjs';
+import pkg2alias from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace-pkg2alias@esm/index.mjs';
 
 var list;
 var len;

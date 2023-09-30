@@ -24,7 +24,7 @@ var tape = require( 'tape' );
 var aliases = require( '@stdlib/namespace-aliases' );
 var alias2pkg = require( '@stdlib/namespace-alias2pkg' );
 var alias2standalone = require( '@stdlib/namespace-alias2standalone' );
-var DATA = require( './../data/data.json' );
+var DATA = require( './../../data/data.json' );
 var pkg2alias = require( './../../dist' );
 
 

@@ -47,7 +47,7 @@
     "@stdlib/cli-ctor": "^0.1.1",
     "@stdlib/fs-read-file": "^0.1.1",
     "@stdlib/namespace-standalone2pkg": "^0.1.1",
-    "@stdlib/string-format": "^0.1.1"
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.1.1",

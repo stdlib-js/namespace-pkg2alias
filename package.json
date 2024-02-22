@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/namespace-pkg2alias",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Return the alias associated with a specified package name.",
   "license": "Apache-2.0",
   "author": {
@@ -42,16 +42,16 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.0",
-    "@stdlib/assert-is-string": "^0.2.0",
-    "@stdlib/cli-ctor": "^0.2.0",
-    "@stdlib/fs-read-file": "^0.2.0",
-    "@stdlib/namespace-standalone2pkg": "^0.2.0",
-    "@stdlib/string-format": "^0.2.0"
+    "@stdlib/assert-has-own-property": "^0.2.1",
+    "@stdlib/assert-is-string": "^0.2.1",
+    "@stdlib/cli-ctor": "^0.2.1",
+    "@stdlib/fs-read-file": "^0.2.1",
+    "@stdlib/namespace-standalone2pkg": "^0.2.1",
+    "@stdlib/string-format": "^0.2.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.2.0",
-    "@stdlib/assert-is-windows": "^0.2.0",
+    "@stdlib/assert-is-windows": "^0.2.1",
     "@stdlib/fs-write-file": "^0.2.0",
     "@stdlib/namespace": "^0.2.1",
     "@stdlib/namespace-alias2pkg": "^0.4.0",

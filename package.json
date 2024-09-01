@@ -54,7 +54,7 @@
     "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/assert-is-windows": "^0.2.2",
     "@stdlib/fs-write-file": "^0.2.2",
-    "@stdlib/namespace": "^0.2.1",
+    "@stdlib/namespace": "^0.3.1",
     "@stdlib/namespace-alias2pkg": "^0.5.0",
     "@stdlib/namespace-alias2standalone": "^0.3.0",
     "@stdlib/namespace-aliases": "^0.3.0",

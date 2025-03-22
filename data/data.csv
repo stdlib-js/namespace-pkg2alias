@@ -207,7 +207,7 @@
 "@stdlib/math/base/special/cfloor",base.cfloor
 "@stdlib/math/base/special/cfloorn",base.cfloorn
 "@stdlib/complex/float64/base/identity",base.cidentity
-"@stdlib/math/base/special/cidentityf",base.cidentityf
+"@stdlib/complex/float32/base/identity",base.cidentityf
 "@stdlib/math/base/special/cinv",base.cinv
 "@stdlib/math/base/special/clamp",base.clamp
 "@stdlib/math/base/special/clampf",base.clampf
@@ -2593,6 +2593,7 @@
 "@stdlib/ndarray/at",ndat
 "@stdlib/ndarray/empty",ndempty
 "@stdlib/ndarray/empty-like",ndemptyLike
+"@stdlib/ndarray/fill",ndfill
 "@stdlib/ndarray/filter",ndfilter
 "@stdlib/ndarray/filter-map",ndfilterMap
 "@stdlib/ndarray/for-each",ndforEach
